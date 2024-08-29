@@ -4,7 +4,7 @@ Hi 👋 My name is Tanuj Agarwal
 Web Developer
 -------------
 
-I am currently learning to be a Full Stack Developer. I am currently learning Spring Boot and REST API. My interests are Artificial Intelligence and Machine Learning. A little bit of game development also.
+I am a Backend Engineer. I am currently working on Spring Boot and REST API. My interests are Artificial Intelligence and Machine Learning. A little bit of game development also.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tanuj.agarwal1513@gmail.com](mailto:tanuj.agarwal1513@gmail.com)
